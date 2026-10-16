@@ -1,0 +1,72 @@
+{
+  "lyceum": 1,
+  "title": "Jersey Rain",
+  "description": "A three-day Environmental Science unit on extreme rain in Fairfield, North Caldwell, Essex Fells, and Roseland. Students read the Passaic River gauge, pull real rainfall data, map the swing from drought to flood, and ask who keeps count and who pays.",
+  "url": "https://mistertlibrary.github.io/jerseyrain/",
+  "series": "",
+  "course": "",
+  "subjects": [
+    "Science"
+  ],
+  "sections": [
+    {
+      "title": "How It Works",
+      "anchor": "#start",
+      "keywords": [
+        "StoryMapJS",
+        "extreme rain"
+      ]
+    },
+    {
+      "title": "Roles",
+      "anchor": "#roles",
+      "keywords": [
+        "Hydrologist",
+        "Cartographer",
+        "Analyst",
+        "Archivist"
+      ]
+    },
+    {
+      "title": "Day 1: Read the River",
+      "anchor": "#day1",
+      "keywords": [
+        "Passaic River",
+        "Pine Brook gauge",
+        "NOWData",
+        "rainfall data"
+      ]
+    },
+    {
+      "title": "Day 2: Whiplash",
+      "anchor": "#day2",
+      "keywords": [
+        "drought",
+        "wildfire",
+        "flood maps",
+        "FEMA"
+      ]
+    },
+    {
+      "title": "Day 3: Who Keeps Count? Who Pays?",
+      "anchor": "#day3",
+      "keywords": [
+        "billion-dollar disasters",
+        "flood insurance",
+        "National Flood Insurance Program"
+      ]
+    },
+    {
+      "title": "Checklist",
+      "anchor": "#checklist",
+      "keywords": []
+    },
+    {
+      "title": "Where to Look",
+      "anchor": "#sources",
+      "keywords": [
+        "APA"
+      ]
+    }
+  ]
+}
